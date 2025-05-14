@@ -1,0 +1,4 @@
+
+venv/
+
+finetune/SeaLLMs-v3-1.5B-Chat/model.safetensors

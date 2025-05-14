@@ -9,3 +9,6 @@ pip install -r requirements.txt
     python ./finetune/SeaLLMs-v3-1.5B-Chat/train_finetune.py
 # Để chạy 
 python main.py
+
+# Chạy web UI
+python server.py
